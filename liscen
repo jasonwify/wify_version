@@ -1,0 +1,4 @@
+ip_ret = get_eth0_ip(m_ip);
+				LOGD("2222222222get_eth0_ip()..ret = %d, ip: %s", ip_ret, m_ip);
+				if(isValidIP(m_ip)) {
+					break;
