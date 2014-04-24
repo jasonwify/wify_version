@@ -6,4 +6,4 @@ Git is free software.
 
 wify wait wife
 
-Git tracks changes
+Git tracks changes of files
