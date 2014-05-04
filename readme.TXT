@@ -7,3 +7,4 @@ Git is free software.
 wify wait wife
 
 Git tracks changes of files
+git status
